@@ -4,6 +4,7 @@
  - 👩🏻‍💻 I'm currently studying Full Stack development;<br>
  - ⚜️ I particularly do well with the front end, but I take risks on the back end;<br>
  - 🎭 Curiosity: I love to act and fight Muay Thai.
+ - teste 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ygillah_lymmah) 
